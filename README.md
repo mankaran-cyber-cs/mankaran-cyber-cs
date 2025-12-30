@@ -6,7 +6,7 @@ I focus on building projects, conducting research, and exploring real-world appl
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Python, C, C++
 - Cybersecurity platforms: Try HackMe, Hack The Box, CTF practice
 - Machine learning for anomaly detection
