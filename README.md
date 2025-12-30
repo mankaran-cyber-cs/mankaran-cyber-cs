@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Mankaran Singh Batth
 
-<!--
-**mankaran-cyber-cs/mankaran-cyber-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Grade 10 student passionate about computer science, cybersecurity, and AI-driven solutions.
+I focus on building projects, conducting research, and exploring real-world applications of technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python, C, C++
+- Cybersecurity platforms: Try HackMe, Hack The Box, CTF practice
+- Machine learning for anomaly detection
+- Math Olympiads & problem-solving
+
+---
+
+## How to Reach Me
+- Email: mankarans888@gmail.com
+- GitHub: https://github.com/mankaran-cyber-cs/mankaran-cyber-cs
+
+---
+
+## Fun Fact
+I am combining CS, cybersecurity, and research to build tools that protect digital systems while learning at the intersectionof theory and practice
